@@ -66,3 +66,13 @@ Future Enhancements
 • Add API integration for importing/exporting contact data.
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Snapshots of Application
+![image](https://github.com/user-attachments/assets/3fec9a64-476f-497e-a6d2-767931206725)
+![image](https://github.com/user-attachments/assets/39cb6a7d-cf59-45ed-b063-970a9a631f23)
+![image](https://github.com/user-attachments/assets/8f03b531-f9f9-4bb0-af00-4043090831a9)
+
+
+
+
+
