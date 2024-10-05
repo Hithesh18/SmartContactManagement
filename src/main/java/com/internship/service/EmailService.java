@@ -17,7 +17,7 @@ public class EmailService {
 	public boolean sendEmail(String subject,String message,String to) {
 		
 		boolean f=false;
-		String from ="varshalokesh2000@gmail.com";
+		String from ="hitheshch2000@gmail.com";
 		String host="smtp.gmail.com";
 		Properties properties =System.getProperties();
 		System.out.println("Properties  "+properties);
