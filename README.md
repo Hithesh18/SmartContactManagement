@@ -30,7 +30,7 @@ The main goal of the Smart Contact Management System is to automate and streamli
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/contact-management-system.git
+   git clone https://github.com/Hithesh18/contact-management-system.git
 2. Navigate to the project directory:
    ```bash
    cd contact-management-system
